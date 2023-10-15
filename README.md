@@ -76,7 +76,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/mrd3f417/MR.Defalt-Language-Translator.git
+   git clone https://github.com/mrd3f417/Laster-Boomber.git
    ```
 2. Run 
    ```sh
@@ -95,7 +95,7 @@ This is an example of how to list things you need to use the software and how to
 
 D3F417 - [@D3F417ir](https://t.me/D3F417ir) - mrrobotha3@gmail.com
 
-Project Link: [https://github.com/D3F417IR/Raven-Language-Translator](https://github.com/D3F417IR/Raven-Language-Translator)
+Project Link: [https://github.com/mrd3f417/Laster-Boomber.git](https://github.com/mrd3f417/Laster-Boomber.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
