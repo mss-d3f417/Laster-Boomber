@@ -22,7 +22,7 @@
 -->
 
 
-  <h3 align="center">Laster SMS Boomber</h3>
+  <h3 align="center">Laster SMS Boomber - Discord : lasteerr</h3>
 
   <p align="center">
     Sms Boomber With Python By Laster ! 
